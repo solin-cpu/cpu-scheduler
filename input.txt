@@ -1,0 +1,8 @@
+# group D2S8 - algorithm: PRIO
+# name arrival burst priority
+P1 0 7 4
+P2 1 7 2
+P3 4 8 5
+P4 7 5 5
+P5 7 9 3
+P6 7 3 4
