@@ -4,7 +4,7 @@
 - Algorithms: FCFS & Non-Preemptive Priority
 - Team Members:
   1. [سولين عبدالباسط محمّد] - [111122443]
-  2. [سدرة المنتهى عبد الواحد الشيخ حسن] - [111124236]
+  2. [سدرة المنتهى عبدالواحد الشيخ حسن] - [111124236]
 
 ## How to Run
 1. Make sure Python 3 is installed on your computer.
